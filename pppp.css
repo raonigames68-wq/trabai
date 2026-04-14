@@ -1,0 +1,6 @@
+body {
+  background-image: url("https://th.bing.com/th/id/R.83fb87236c21af9329f9410b1b68547c?rik=bEGTnkmqXkdPsg&pid=ImgRaw&r=0");
+  background-size: cover;        /* preenche tudo */
+  background-repeat: no-repeat;  /* não repete */
+  background-position: center;   /* centraliza */
+}
